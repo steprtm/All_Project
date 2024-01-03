@@ -15,6 +15,9 @@
         android:theme="@style/Theme.AllProject"
         tools:targetApi="31">
         <activity
+            android:name=".ExoPlayerActivity"
+            android:exported="false" />
+        <activity
             android:name=".embed3"
             android:exported="false" />
         <activity

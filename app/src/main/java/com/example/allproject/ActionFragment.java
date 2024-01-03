@@ -16,18 +16,21 @@ public class ActionFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_action, container, false);
 
-        // Find the ImageButton by ID within the inflated view
         ImageButton imageButton = view.findViewById(R.id.imageButton);
-
-        // Set an OnClickListener for the ImageButton
         imageButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Open embed1.class when the ImageButton is clicked
                 startActivity(new Intent(getActivity(), embed1.class));
+            }
+        });
+
+        ImageButton imageButton4 = view.findViewById(R.id.imageButton4);
+        imageButton4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), ExoPlayerActivity.class));
             }
         });
 

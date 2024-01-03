@@ -129,7 +129,7 @@
         android:id="@+id/AlarmButton"
         android:layout_width="104dp"
         android:layout_height="49dp"
-        android:layout_marginTop="392dp"
+        android:layout_marginTop="408dp"
         android:background="@android:color/transparent"
         android:scaleType="fitCenter"
         android:src="@drawable/alarm"
