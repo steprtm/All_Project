@@ -10,5 +10,8 @@ DOSEN PENGAMPUH : Donny Maulana, S.Kom., M.M.S.I.
 Hasil Run :
 
 
-https://github.com/steprtm/All_Project/assets/129705802/3eb958a5-8dc7-49c4-a4a7-223c04a9f01d
+
+https://github.com/steprtm/All_Project/assets/129705802/772bbc8d-2190-4096-83b3-71e6dcf84a0a
+
+
 
