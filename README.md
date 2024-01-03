@@ -6,6 +6,8 @@ DIBUAT OLEH : STEPHEN PRATAMA KURNIA/TI.22.A5/312210635
 
 DOSEN PENGAMPUH : Donny Maulana, S.Kom., M.M.S.I.
 
+[CARA MENGGUNAKAN APLIKASI.pdf](https://github.com/steprtm/All_Project/files/13818585/CARA.MENGGUNAKAN.APLIKASI.pdf)
+
 
 Hasil Run :
 
